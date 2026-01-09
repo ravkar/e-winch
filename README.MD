@@ -1,3 +1,3 @@
 ## Electric winch for paragliding
-- 5kW BLDC motor - power generator
+- 5kW BLDC hub motor - power generator
 - line tension controller - for payout scenario
