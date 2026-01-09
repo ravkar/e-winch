@@ -1,4 +1,3 @@
 ## Electric winch for paragliding
-### Payout scenario
-- 5kW BLDC motor - as generator
-- line tension controller
+- 5kW BLDC motor - power generator
+- line tension controller - for payout scenario
